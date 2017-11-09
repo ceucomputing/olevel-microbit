@@ -1,4 +1,4 @@
-import microbit
+from microbit import *
 import math
 
 # ================================================================================
